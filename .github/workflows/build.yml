@@ -13,8 +13,8 @@ env:
   SOLUTION_NAME: SomethingNeedDoing
   INTERNAL_NAME: SomethingNeedDoing
   RELEASE_DIR: SomethingNeedDoing\bin\Release\SomethingNeedDoing
-  PERSONAL_PLUGIN_REPO: daemitus/MyDalamudPlugins
-  PR_PLUGIN_REPO: daemitus/DalamudPlugins
+  PERSONAL_PLUGIN_REPO: plottingCreeper/MyDalamudPlugins
+  PR_PLUGIN_REPO: plottingCreeper/DalamudPlugins
 
 jobs:
   build:
