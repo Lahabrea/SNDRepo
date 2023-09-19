@@ -1,5 +1,11 @@
 ## Something Need Doing
 
+Original is here https://github.com/daemitus/SomethingNeedDoing
+I've taken out what's probably a safety check, and then copy+pasted in someone else's code. 
+Good luck!
+
+## Original readme
+
 This plugin gives you control of a little Orc peon that does things for you. 
 Specifically, crafting. 
 It's a better way of storing and running all your different macros.
